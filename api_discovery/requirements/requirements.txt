@@ -1,0 +1,5 @@
+nox
+GitPython
+python-dotenv
+FastAPI
+uvicorn
